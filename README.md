@@ -1,4 +1,3 @@
-# mobile-controller
 # 📱 Mobile Controller (ADB + Scrcpy)
 
 Control your Android phone from your laptop wirelessly.
